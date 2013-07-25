@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1372954957 source:d:\codeblock\joglo_rumah\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1372954850 d:\codeblock\joglo_rumah\imageloader.h
+
+1374051741 source:d:\codeblock\joglo_rumah\joglo_rumah.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	"imageloader.h"
+	"vec3f.h"
+
+1372954907 d:\codeblock\joglo_rumah\vec3f.h
+	<iostream>
+
+1372955050 source:d:\codeblock\joglo_rumah\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+

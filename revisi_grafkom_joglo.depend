@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1374564532 source:d:\codeblock\revisi_grafkom_joglo\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1374564455 d:\codeblock\revisi_grafkom_joglo\imageloader.h
+
+1374567226 source:d:\codeblock\revisi_grafkom_joglo\rumah_joglo.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<SOIL/SOIL.h>
+	"imageloader.h"
+	"vec3f.h"
+	"color.h"
+
+1374564491 d:\codeblock\revisi_grafkom_joglo\vec3f.h
+	<iostream>
+
+1374564410 d:\codeblock\revisi_grafkom_joglo\color.h
+
+1374564607 source:d:\codeblock\revisi_grafkom_joglo\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+
